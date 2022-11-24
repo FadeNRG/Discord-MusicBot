@@ -23,7 +23,7 @@ Repl.it [Tutorial](https://github.com/SudhanPlayz/Discord-MusicBot/wiki/Installa
 
 VPS / Server [Tutorial](https://github.com/SudhanPlayz/Discord-MusicBot/wiki/Installation-on-a-Linux-server)
 
-## 📝 [Support Server](https://discord.gg/sbySMS7m3v)
+## 📝 [Support Server](https://discord.gg/GayXBpeXgE)
 
 If you have major coding issues with this bot, please join and ask for help.
 
