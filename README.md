@@ -13,7 +13,7 @@ Discord.js v13 will break this bot so do not use this with it. We have just star
 
 > NOTE: Lavalink is needed for music functionality. You need to have a working Lavalink server to make the bot work.
 
-## ▶️[YouTube](https://www.youtube.com/@tintz2065/videos)
+## ▶️[YouTube](https://www.youtube.com/channel/UCxiwhPcY5nFmYL51NRWTb1A)
 
 
 
