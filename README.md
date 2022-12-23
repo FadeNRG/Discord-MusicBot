@@ -21,7 +21,7 @@ Discord.js v13 will break this bot so do not use this with it. We have just star
 
 A Tutorial has been uploaded on YouTube, Watch it by clicking on the image down below
 
-[![Advanced Discord Music Bot with Web Dashboard | Spotify Support](https://img.youtube.com/vi/p4lP96Tiv9s/maxresdefault.jpg)](https://www.youtube.com/watch?v=p4lP96Tiv9s)
+[![Advanced Discord Music Bot with Web Dashboard | Spotify Support](https://img.youtube.com/vi/p4lP96Tiv9s/maxresdefault.jpg)](https://www.youtube.com/watch?v=HDn0csjRIiU&t=10s)
 
 Repl.it [Tutorial](https://github.com/SudhanPlayz/Discord-MusicBot/wiki/Installation-on-Repl-it)
 
